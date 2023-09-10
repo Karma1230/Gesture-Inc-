@@ -1,0 +1,72 @@
+Team Name:
+Gesture.Inc
+
+Motto: 
+Embrace the challenge, achieve greateness
+
+
+Team Member 1 : Phuthego Mdluli
+I am from Pretoria ,sosha. My profesional goal is to be a Software Developer. My hobbies are playing guitar and graphic design. The emojis that I chose are artist palatte and a smiley face.
+
+Team Member 2 : Vharevhawe Nemushungwa
+I am from Polokwane. My proffesional goal is to become an exucutive of a software development company. My hobbies are gaming and programming. The emojis I chose are smiley face and laptop.
+
+Team Member 3 : Tumelo Komane
+I am from Burgersfort , My proffesional goal is to kindly become a Network engineer in the most biggest buildings. Hobbies are Trading,Playing Soccer and Making music. The emojis are Happy face with heart eyes,musical note and star.
+
+Team Member 4: Silo Mazondwa
+I am from East London, Amalinda. My professional goal is to become a software engineer. My hobbies are gyming, playing soccer and listening to music. I chose the smiley and dumbell emoji.
+
+Team Member 5 : Kateko Tivane
+I am from Witbank, Duvha park.My profesional goal is to be a CyberSecurity engineer in an international tech company. I am into Reverse engineering.The emojis i chose are Detective and thinking face.
+
+Activity 1 SDLC Methodologies (Vharevhawe & Silo)
+
+1.Agile 
+Agile is a flexible software development approach that combines incremental and iterative cycles, focusing on frequent releases and quick issue resolution. It's a framework with sub-models like Scrum, XP, RAD, and Kanban, emphasizing adaptability and collaboration for efficient value delivery.
+
+2.Waterfall
+The Waterfall model is one of the oldest SDLC methodologies, progressing through phases sequentially. It offers clarity and defined stages but is criticized for its rigid nature. Suited for highly predictable projects.
+
+3.Spiral Model
+The Spiral model, favoured by top software companies, is highly flexible and focuses on risk analysis. It involves iterative phases - planning, risk analysis, engineering, and evaluation. Unique for its risk mitigation approach and customer feedback emphasis, it simplifies cost estimation through incremental prototype builds.
+
+4.Scrum
+Scrum model in SDLC is an Agile model that enables software development teams to build high-quality software products faster and more efficiently. The Scrum model in SDLC follows a structured approach that emphasizes collaboration, flexibility, and continuous improvement.
+
+5.Extreme programming
+Extreme Programming (XP) is an Agile approach that focuses on collaboration, quality, and responsiveness. It includes practices like pair programming, test-driven development, continuous integration, and regular releases. Customer involvement and simplicity are key, making it suitable for projects with changing requirements.
+
+6.Rapid Application Development (RAD)
+Rapid Application Development (RAD) is a fast-paced methodology that focuses on iterative development, user involvement, and quick prototyping. It's used for projects requiring speedy delivery and adaptability to changing requirements.
+
+7.DSDM
+DSDM, an early and renowned Agile method, ensures timely, user-driven solutions through iterative development, fixed time-boxes, collaboration, and flexible adaptation. It emphasizes user involvement, prioritization, prototyping, and continuous testing for quality. DSDM aligns development with business goals, offering a comprehensive framework that suits evolving projects and delivers rapid value.
+
+8.Rational Unified Process
+The Rational Unified Process (RUP) is a software development methodology emphasizing iterative and incremental processes, with a strong focus on architecture, divided into phases (Inception, Elaboration, Construction, and Transition). It defines roles, artefact’s, and best practices to create high-quality software, while remaining flexible and adaptable to different project needs. RUP guides teams in managing complexity, mitigating risks, and delivering robust software products.
+
+9.Lean
+Lean methodology, derived from Toyota's approach, boosts efficiency by cutting waste and enhancing value delivery. It spans various sectors like software and healthcare, aiming to amplify customer value while minimizing resources. Core principles encompass recognizing value, process mapping, seamless flow, pull systems, perfection through ongoing improvement, waste reduction (TIMWOODS), valuing employees, and fostering a Kaizen culture. Lean's emphasis on value, waste reduction, and continuous improvement renders it adaptable for efficient, customer-centric processes.
+
+10.Feature Driven Development
+Feature Driven Development (FDD) is an iterative and incremental approach, focusing on delivering valuable features through domain-driven design and design by feature. It suits medium to large projects, organizing development around prioritized features. Short iterations ensure timely delivery, with regular code inspections and cross-functional teams promoting quality and collaboration. FDD's adaptability accommodates changing requirements while maintaining a disciplined focus on efficient feature delivery, making it valuable for projects requiring clear domain understanding and prioritization of user-driven functionality.
+
+11.Joint Application Development
+Joint Application Development (JAD) is a structured, collaborative methodology for software development and system design. It involves interactive workshops with stakeholders, aiming to gather requirements, define scope, and ensure a shared understanding. JAD emphasizes inclusiveness, collaborative requirements gathering, problem-solving, and rapid iteration. Visual aids aid visualization, while comprehensive documentation is created. JAD accelerates decision-making, enhances communication, and is effective for projects requiring collaboration and a clear shared vision, reducing misunderstandings and enhancing the likelihood of successful software delivery.
+
+12.Prototyping Methodology
+The prototype methodology is an iterative and incremental software development approach that involves creating and refining a preliminary version of the system (prototype) to understand requirements, demonstrate functionality, and gather stakeholder feedback. It emphasizes early visualization, rapid iterations, and user involvement to reduce risks, clarify requirements, and improve the final product. Prototypes serve as proof of concept, aid communication, and help manage scope. While beneficial for innovative or user-centric projects, effective management is crucial to balance development speed, user engagement, and project control.
+
+Activity 2 Prototyping Methodologies (Tumelo)
+
+1.Throw-away Prototype Model
+•	This one involves making a small part of the system, letting the user try it and getting their feedback.
+•	This way makes a quick prototype using needs and makes it better with feedback from customers, it is called a throw-away because prototype is thrown away and might not be in the final product.
+
+Uses
+•	Make sure that the system needs are checked and well understood.
+
+2.Evolutionary Prototype Model 
+•	This method keeps improving a working prototype after getting suggestions from customers each time.
+•	In each round, the prototype become more like the final system, that is the reason it is called evolutionary prototype.
